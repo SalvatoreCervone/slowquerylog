@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace salvatorecervone\Slowquerylog\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class SlowquerylogCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'slowquerylog';
 
     public $description = 'My command';
 
